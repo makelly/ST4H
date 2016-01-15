@@ -1,7 +1,7 @@
 # ST4H
-Semantic Technologies for Health
+**Semantic Technologies for Health**
 
-This public repository is a collection of information, links, ideas and points of views; on the application of semantic technologies to health.
+This public repository is a collection of information, links, ideas and points of view; on the application of semantic technologies to health.
 
 Semantic Technology is defined as:
 
@@ -15,3 +15,6 @@ Health is defined as:
 
 "Health is a state of complete physical, mental and social well-being and not merely the absence of disease or infirmity."
 *World Health Organization. Constitution of the World Health Organization Basic Documents, Forty-fifth edition, Supplement, October 2006. WHO, Geneva.* 
+
+As such Health is considered to include physical health, mental health, social care, social relationships and well-being.
+
